@@ -1,0 +1,2 @@
+
+#define INPUT_MAX_LEN 100
